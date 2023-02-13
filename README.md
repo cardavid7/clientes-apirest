@@ -2,11 +2,11 @@
 
 This project is a backend __@RestController__ aplication created with a spring-boot version 3.0.2.
 
-Frontend Aplication is:[ClientesApp](https://github.com/cardavid7/clientesApp)
+Frontend Aplication is: [ClientesApp](https://github.com/cardavid7/clientesApp)
 
 ## Database 
 
-The database is in MySQL and the database named db_clientes_apirest must be created. When the spring application is executed, the table will be created with their respective fields and information with some clients
+The database engine used is MySQL and initially the database named "db_clientes_apirest" must be created. Then when the spring application is executed, the table will be created with their respective fields and information with some clients.
 
 You can see the application.properties and import.sql files for more information on clientes-apirest\src\main\resources
 
