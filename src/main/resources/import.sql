@@ -1,0 +1,13 @@
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Carlos David', 'Serrano', 'carlos@gmail.com', '2023-01-28');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Maria Camila', 'Ríos Arteaga', 'maria.camila@gmail.com', '2023-01-29');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Jessica', 'Hernandez', 'jessica@gmail.com', '2023-02-01');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Daniel', 'Torres Ibarra', 'daniel@gmail.com', '2023-02-02');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Luis Carlos', 'Martinez', 'luis@gmail.com', '2023-02-03');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Luis Alejandro', 'Ballesteros Hernandez', 'luis.alejandro@gmail.com', '2023-02-04');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Alfredo', 'Nuñez', 'alfredo@gmail.com', '2023-02-03');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Catalina', 'Hurtado', 'catalina@gmail.com', '2023-02-03');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Alfonso', 'Ballesteros', 'alfonso@gmail.com', '2023-02-04');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Luis David', 'Sierra', 'luis.david@gmail.com', '2023-01-28');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Marcela', 'Medina', 'marcela@gmail.com', '2023-01-29');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Andres', 'Lopez', 'andres@gmail.com', '2023-02-01');
+INSERT INTO cliente (s_nombres, s_apellidos, s_email, d_create_at) VALUES ('Humberto', 'Ibarra', 'humberto@gmail.com', '2023-02-02');
