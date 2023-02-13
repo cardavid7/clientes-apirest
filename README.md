@@ -58,7 +58,7 @@ For CRUD methods the standard GET, POST, PUT and DELETE verbs are used. You can 
 * __GET__ request to http://localhost:8080/api/clientes/responseEntity/getClienteById/1 --> return a client by id
 * __POST__ request to http://localhost:8080/api/clientes/responseEntity/createCliente --> create a client
 
-select content-type as ‘application/json’ and Content-Length as ‘<calculated when request is sent>’ and  this content body
+select content-type as ‘application/json’ and Content-Length as ‘ <calculated when request is sent> ’ and  this content body
 ```
 {
     "nombres": "Eduardo",
@@ -69,7 +69,7 @@ select content-type as ‘application/json’ and Content-Length as ‘<calculat
 
 * __PUT__ request to http://localhost:8080/api/clientes/responseEntity/editClienteById/1 --> edit a client
 
-select content-type as ‘application/json’ and Content-Length as ‘<calculated when request is sent>’ and  this content body
+select content-type as ‘application/json’ and Content-Length as ‘ <calculated when request is sent> ’ and  this content body
 ```
 {
     "nombres": "Carlos Alberto",
