@@ -24,6 +24,7 @@ import com.cardavid.clientes.apirest.controller.response.ResponseValues;
 import com.cardavid.clientes.apirest.domain.entity.Cliente;
 import com.cardavid.clientes.apirest.domain.service.IClienteService;
 
+@CrossOrigin(origins = {"http://localhost:4200"})
 @RestController
 @RequestMapping("/api/clientes")
 public class ClienteRestController {
